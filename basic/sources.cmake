@@ -1,0 +1,9 @@
+add_library(scheme_basic
+    tokenizer.cpp
+    parser.cpp
+    scheme.cpp
+    object.cpp
+    evaluate.cpp
+    funcs.cpp
+    representation.cpp
+)
