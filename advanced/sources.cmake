@@ -1,0 +1,10 @@
+add_library(scheme_advanced
+        tokenizer.cpp
+        parser.cpp
+        scheme.cpp
+        funcs.cpp
+        representation.cpp
+        object.cpp
+        evaluate.cpp
+        scope.cpp
+)
